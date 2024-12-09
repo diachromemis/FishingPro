@@ -1,0 +1,3 @@
+The "FishingPro" website is professionally designed to support fishing rod business, offering high-quality products for fishing enthusiasts. With a modern and intuitive interface, the site features key pages such as Home, About, and Products, making it easy for customers to browse and discover suitable fishing rods like the ProFishing Rod or EcoCast Rod.
+
+The code is built with HTML and CSS, ensuring user-friendliness and easy customization. The design emphasizes clear presentation of information, providing an engaging online experience and encouraging customers to shop for fishing rods directly through the website.
